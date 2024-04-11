@@ -8,6 +8,7 @@ LINKAI = "linkai"
 CLAUDEAI = "claude"
 QWEN = "qwen"
 GEMINI = "gemini"
+DIFYAI = "difyai"
 
 # model
 GPT35 = "gpt-3.5-turbo"
