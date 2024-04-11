@@ -150,7 +150,11 @@ available_setting = {
     "linkai_app_code": "",
     "linkai_api_base": "https://api.link-ai.chat",  # linkAI服务地址，若国内无法访问或延迟较高可改为 https://api.link-ai.tech
     "proxy_server": "",  # mj代理地址
-    "proxy_api_secret": ""  # mj api密钥
+    "proxy_api_secret": "",  # mj api密钥
+    "use_difyai": True,
+    "difyai_api_key": "",
+    "difyai_app_code": "",
+    "difyai_api_base": "",  # difyAI服务地址
 }
 
 
